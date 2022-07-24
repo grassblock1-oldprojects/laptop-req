@@ -2,7 +2,7 @@
 title: 草方块的新laptop求推帖
 date: 2022-07-02 21:56:29 +0800
 tags: help
-image: https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Grass_Block_JE7_BE6.png/revision/latest?cb=20200830143209
+image: https://st(atic.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Grass_Block_JE7_BE6.png/revision/latest?cb=20200830143209
 description: 如题🌚希望大家提出一些建议（封面图来自Minecraft官方wiki）
 ---
 # Laptop 求集贴 
@@ -19,7 +19,17 @@ description: 如题🌚希望大家提出一些建议（封面图来自Minecraft
 当然，你可以尝试诈骗（？
 
 ## 时效性
-本帖持续开放及小幅度更新，直至有关于“买新laptop”的说明
+本帖持续开放及小幅度更新，直至有关于“买新laptop”的说明（大概在明年）
+
+## 参与进来
+你可以随时在 Telegram / Matrix 群组提出推荐&建议，当然，推荐在 Github Discussions 开帖讨论。
+传送门：
+
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Sub0B3TJ_cXpVwZG)
+
+[![](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/#grassblock-house:mozilla.org)
+
+[Github Discussions](https://github.com/GrassBlock1/laptop-req/discussions/categories/general)
 
 ----
 进入正题
@@ -29,7 +39,7 @@ description: 如题🌚希望大家提出一些建议（封面图来自Minecraft
 - ~~至少能用Windows™ 11~~虽然可能连装都不会装，但硬件至少得有具有能力运行🌚
 - 主屏幕分辨率希望能达到 1080p 及以上，~~问就是懒得外接显示器~~
 - 接口上尽量全面，尽可能有一个有线网络接口，多个USB接口，HDMI接口等等🌚
-- 由于是家长出钱买（我一时间也没有那么多钱），所以说预算是 *尽量低* （≤5000（？），至于范围的话甚至连我自己都不清楚🌚
+- 由于是家长出钱买（我一时间也没有那么多钱），所以说预算是 *尽量低* （[2000,5000]），至于范围的话甚至连我自己都不清楚🌚
 ## 自己可能用这台laptop干的事情
 > 毫 无 条 绪
 
